@@ -13,3 +13,7 @@
 - DB : OracleDB
 - WAS : Apache Tomcat 9.0
 - Version : Github
+
+## 담당
+- 회원가입 페이지
+- 로그인 페이지
